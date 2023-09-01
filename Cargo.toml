@@ -3,6 +3,7 @@ members = [
     "core",
     "ergo-chain-sim",
 ]
+resolver = "2"
 
 [workspace.dependencies]
 ergo-lib = { version = "0.23" }
